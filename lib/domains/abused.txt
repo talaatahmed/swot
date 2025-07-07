@@ -1428,3 +1428,8 @@ isbstudent.comsats.edu.pk
 comsats.edu.pk
 mcru.ac.th
 studio.unibo.it
+student.polinema.ac.id
+di.uoa.gr
+psdschools.org
+yd.ac.kr
+bu.edu.eg
